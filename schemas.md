@@ -7,7 +7,7 @@ MVP Schemas
 * Role - (Staff or User)
 * Name
 * Email
-* Phone_Number
+* PhoneNumber
 * Password
 * CLA - Current Liquid Assets
 
@@ -32,7 +32,7 @@ MVP Schemas
 * NumPayments - How many payments are needed to reach goal with interval and payment amount
 * GoalDate - When do they wish to achieve this goal? (suggest # payments, payment amt, interval?)
 
-## Categories
+## Categories (Utility)
 * ID
 * Name
 
