@@ -32,6 +32,10 @@ MVP Schemas
 * NumPayments - How many payments are needed to reach goal with interval and payment amount
 * GoalDate - When do they wish to achieve this goal? (suggest # payments, payment amt, interval?)
 
+## Categories
+* ID
+* Name
+
 Wanted Schemas
 ===============
 
