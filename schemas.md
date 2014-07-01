@@ -35,7 +35,7 @@ MVP Schemas
 Wanted Schemas
 ===============
 
-## Staff
+## Staff (for polish)
 ####(Assumed God Mode otherwise, ie can see all users)
 
 * AccountsList - List of Users-IDs
