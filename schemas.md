@@ -17,15 +17,15 @@ MVP Schemas
 * CreatedAt - time transaction added
 * Amount - amount of the transaction can be +/-
 * Description - what was the transaction?
-* Type - Was this a debit or credit?
-* Category - (Food, Supplies, Goal, etc)
+* Type (integer) - Was this a debit or credit?
+* CategoryID - (Food, Supplies, Goal, etc)
 
 ## Goals
 * UserID - which user is this goal associated with?
 * Name - Simple Name of Goal
 * Description - details of the goal
-* Type - (Loan, Deposit, Vacation, etc)
-* Status - (Achieved, In Progress)
+* Type (integer) - (Loan, Deposit, Vacation, etc)
+* Status (integer) - (Achieved, In Progress)
 * Amount - $ total of the goal
 * TimeInterval - What interval was set for goal payments
 * PaymentAmt - what was the payment amount chosen for this goal
