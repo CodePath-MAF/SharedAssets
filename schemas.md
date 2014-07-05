@@ -2,39 +2,39 @@ MVP Schemas
 ============
 
 ## Users
-* ID - key identifer
-* CreatedAt - time user is created
-* Role - (Staff or User)
-* Name
-* Email
-* PhoneNumber
-* Password
+* id - key identifer
+* createdAt - time user is created
+* role - (Staff or User)
+* name
+* email
+* phoneNumber
+* password
 * CLA - Current Liquid Assets
 
 ## Transactions
-* UserID - who does this transaction belong to?
-* GoalID - what goal is this transaction apart of? if nil, not a goal transaction
-* CreatedAt - time transaction added
-* Amount - amount of the transaction can be +/-
-* Description - what was the transaction?
-* Type (integer) - Was this a debit or credit?
-* CategoryID - (Food, Supplies, Goal, etc)
+* userId - who does this transaction belong to?
+* goalId - what goal is this transaction apart of? if nil, not a goal transaction
+* createdAt - time transaction added
+* amount - amount of the transaction can be +/-
+* description - what was the transaction?
+* type (integer) - Was this a debit or credit?
+* categoryId - (Food, Supplies, Goal, etc)
 
 ## Goals
-* UserID - which user is this goal associated with?
-* Name - Simple Name of Goal
-* Description - details of the goal
-* Type (integer) - (Loan, Deposit, Vacation, etc)
-* Status (integer) - (Achieved, In Progress)
-* Amount - $ total of the goal
-* TimeInterval - What interval was set for goal payments
-* PaymentAmt - what was the payment amount chosen for this goal
-* NumPayments - How many payments are needed to reach goal with interval and payment amount
-* GoalDate - When do they wish to achieve this goal? (suggest # payments, payment amt, interval?)
+* userID - which user is this goal associated with?
+* name - Simple Name of Goal
+* description - details of the goal
+* type (integer) - (Loan, Deposit, Vacation, etc)
+* status (integer) - (Achieved, In Progress)
+* amount - $ total of the goal
+* timeInterval - What interval was set for goal payments
+* paymentAmt - what was the payment amount chosen for this goal
+* numPayments - How many payments are needed to reach goal with interval and payment amount
+* goalDate - When do they wish to achieve this goal? (suggest # payments, payment amt, interval?)
 
 ## Categories (Utility)
-* ID
-* Name
+* id
+* name
 
 Wanted Schemas
 ===============
@@ -42,4 +42,4 @@ Wanted Schemas
 ## Staff (for polish)
 ####(Assumed God Mode otherwise, ie can see all users)
 
-* AccountsList - List of Users-IDs
+* accountsList - List of Users-IDs
