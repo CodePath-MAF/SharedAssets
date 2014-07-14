@@ -20,7 +20,7 @@ Extends the ParseUser obj
 * **amount** (Number) - amount of the transaction can be +/-
 * **description** (String) - what was the transaction?
 * **type** (Integer) - Was this a debit or credit?
- * enum [Expense =1, Income = 2]
+ * enum [Debit = 1, Credit = 2]
 * **category** (Category obj) - (E.g: Food, Supplies, Goal, etc)
 
 ## Goal
