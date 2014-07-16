@@ -34,7 +34,7 @@ Extends the ParseUser obj
 * **amount** (Number) - total $ amount of the goal
 * **paymentInterval** (Integer) - What interval was set for goal payments. Stored in days unit.
  * enum: [Daily = 1, Weekly = 7, BiWeekly = 14, Monthly = 30, BiMonthly = 60]
-* **paymentAmount** (Number) - what was the payment amount chosen for this goal
+* **paymentAmount** (Number) - what was the $ payment amount chosen for this goalDate
 * **numPayments** (Integer) - How many payments are needed to reach goal with interval and payment amount
 * **goalDate** (Date) - When do they wish to achieve this goal? (suggest # payments, payment amt, interval?)
 
