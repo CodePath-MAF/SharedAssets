@@ -47,6 +47,24 @@ paidOut | Boolean | is the Goal cashed out?
 
 A Lending Circle Group is a special Goal
 
+## Post
+
+**Property** | **Type** | **Notes**
+--- | --- | ---
+user | User Obj | User that made the post
+goal | Goal Object | Lending Circle Goal the post belongs to
+content | String | The content of the message
+type | Integer | type of post E.g [1: Message, 2: Event] (still in flux)
+photo | Parse File | Photo attachment to the post
+
+## Comment
+
+**Property** | **Type** | **Notes**
+--- | --- | ---
+user | User Obj | User that created the comment
+content | String | Content
+post | Post Obj | Post that this comments belongs to
+
 
 ## Category (Utility)
 
