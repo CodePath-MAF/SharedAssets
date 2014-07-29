@@ -56,6 +56,7 @@ goal | Goal Object | Lending Circle Goal the post belongs to
 content | String | The content of the message
 type | Integer | type of post E.g [1: Message, 2: Event] (still in flux)
 photo | Parse File | Photo attachment to the post
+toUser | User Obj | User id if the post is private
 
 ## Comment
 
