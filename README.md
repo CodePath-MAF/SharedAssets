@@ -12,7 +12,7 @@ Codepath-MAF was tasked with helping these systems and tools scale so the MAF Le
 - building good habits around spending by consciously tracking spending habits with regular reminders to input what you’ve spent
 - further building those habits with financial goal setting (including the lending circle) related to what you spend
 
-All within a simple to use mobile app available on iOS and Android. We built this app to be helpful to those who simply want to get smarter about tracking their money and accomplish their financial goals, whether that be save up for a new phone, go on a vacation, or pay of school debt.
+Available on iOS and Android. Beyond MAF, we built this app to be helpful for those who simply want to get smarter about tracking their money and accomplish their financial goals; whether that be save up for a new phone, go on a vacation, or pay off school debt.
 
 For detailed specifics of each app check their READMEs here:
 
