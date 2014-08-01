@@ -15,5 +15,6 @@ Codepath-MAF was tasked with helping these systems and tools scale so the MAF Le
 All within a simple to use mobile app available on iOS and Android. We built this app to be helpful to those who simply want to get smarter about tracking their money and accomplish their financial goals, whether that be save up for a new phone, go on a vacation, or pay of school debt.
 
 For detailed specifics of each app check their READMEs here:
-https://github.com/CodePath-MAF/AndroidClient/blob/master/README.md
-https://github.com/CodePath-MAF/iOSClient/blob/master/README.md
+
+* https://github.com/CodePath-MAF/AndroidClient/blob/master/README.md
+* https://github.com/CodePath-MAF/iOSClient/blob/master/README.md
