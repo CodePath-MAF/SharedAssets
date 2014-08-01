@@ -7,7 +7,7 @@ What is a Lending Circle? Simply a group of people who, each month, puts in a se
 
 Codepath-MAF was tasked with helping these systems and tools scale so the MAF Lending Circles could reach more of those who can benefit from them. We accomplished this by providing an app with the following:
 	
-	- real-time updates from MAF staff for check in, payment reminders, etc
-	- communication between participants for social trust building and encouragement
-	- building good habits around spending by consciously tracking spending habits with regular reminders to input what you’ve spent
-	- further building those habits with financial goal setting (including the lending circle) related to what you spend
+- real-time updates from MAF staff for check in, payment reminders, etc
+- communication between participants for social trust building and encouragement
+- building good habits around spending by consciously tracking spending habits with regular reminders to input what you’ve spent
+- further building those habits with financial goal setting (including the lending circle) related to what you spend
