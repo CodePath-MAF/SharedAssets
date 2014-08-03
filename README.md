@@ -5,7 +5,7 @@ Our society is built upon systems of trust; such as social security and credit s
 
 **What is a [Lending Circle](http://missionassetfund.org/lending-circles/)?** Simply a group of people who, each month, puts in a set amount of money. Then one person in that group gets a payday of the cumulative total paid in that month. This continues each month until every person gets their lump sum. As a result, everyone has paid off the loan from each other. This repayment is reported to the Credit Bureaus by MAF each month for each participant.
 
-Codepath-MAF was tasked with helping these systems and tools scale so the MAF Lending Circles could reach more of those who can benefit from them. We accomplished this by providing an app with the following:
+**Codepath-MAF** was tasked with helping these systems and tools scale so the MAF Lending Circles could reach more of those who can benefit from them. We accomplished this by providing an app with the following:
 	
 - real-time updates from MAF staff for check in, payment reminders, etc
 - communication between participants for social trust building and encouragement
